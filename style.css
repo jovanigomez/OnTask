@@ -5,8 +5,8 @@ body {
   }
   
   textarea {
-    background: transparent;
-    border: none;
+    background: rgba(107, 106, 106, 0.214);
+    border: 2rpx;
     resize: none;
     color: #000000;
     border-left: 1px solid black;
@@ -37,7 +37,7 @@ body {
   }
   
   .hour {
-    background-color: #ffffff;
+    background-color: #1b7c006c;
     color: #000000;
     border-top: 1px dashed #000000;
   }
@@ -61,8 +61,8 @@ body {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #06aed5;
-    color: white;
+    background-color: #d611118e;
+    color: rgb(1, 1, 1);
   }
   
   .saveBtn i:hover {
