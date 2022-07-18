@@ -15,7 +15,7 @@ body {
   
   .jumbotron {
     text-align: center;
-    background-color: transparent;
+    background-color: rgba(103, 87, 87, 0.567);
     color: black;
     border-radius: 0;
     border-bottom: 10px solid black;
