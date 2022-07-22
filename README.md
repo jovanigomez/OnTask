@@ -1,8 +1,14 @@
-# OnTask
+# OnTask:
 
 This scheduler displays upcoming events and pass events. All notes typed will remain in the local storage even upon refreshing.
 
-# Acceptance Criteria 
+# Languages used: 
+
+- JavaScript
+- HTML
+- CSS
+
+# Acceptance Criteria:
 ~~~
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
@@ -19,8 +25,12 @@ WHEN I refresh the page
 THEN the saved events persist
 ~~~
  
-# Screenshot: 
+# Screenshot:
+
+![image](./assets/Time.png)
 
 
-
-# Deployed link:
+# Deployed link: 
+* [OnTask](https://jovanigomez.github.io/OnTask/)
+# Repo: 
+* [Repository](https://github.com/jovanigomez/OnTask)
