@@ -1,4 +1,5 @@
 
 $(document).ready(function() {
-    $("#currentDay").text(moment().format("MMMM DO YYYY, h:mm:ss "));
+    $("#currentDay").text(moment().format("MMMM Do YYYY, h:mm:ss a"));
 });
+
