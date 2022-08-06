@@ -16,5 +16,21 @@ $(document).ready(function() {
 
 
     });
+       
+    $("#hour8 .description").val(localStorage.getItem("hour8"));
+    $("#hour9 .description").val(localStorage.getItem("hour9"));
+    $("#hour10 .description").val(localStorage.getItem("hour10"));
+    $("#hour8 .description").val(localStorage.getItem("hour8"));
+    $("#hour8 .description").val(localStorage.getItem("hour8"));
+    $("#hour8 .description").val(localStorage.getItem("hour8"));
+    $("#hour8 .description").val(localStorage.getItem("hour8"));
+    $("#hour8 .description").val(localStorage.getItem("hour8"));
+    $("#hour8 .description").val(localStorage.getItem("hour8"));
+    $("#hour8 .description").val(localStorage.getItem("hour8"));
+    $("#hour8 .description").val(localStorage.getItem("hour8"));
+
+
+
+
 
 });
